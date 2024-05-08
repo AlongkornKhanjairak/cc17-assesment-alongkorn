@@ -1,0 +1,77 @@
+*,
+*::before *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  color: white;
+}
+
+.home {
+  display: grid;
+  justify-items: center;
+  width: 505px;
+  height: 650px;
+  border-radius: 9px;
+  border: 1px solid #1e1f25;
+  background-color: #1e1f25;
+}
+
+.home2 {
+  /* display: grid; */
+  /* justify-items: center; */
+  width: 505px;
+  height: 650px;
+  border-radius: 9px;
+  border: 1px solid #1e1f25;
+  background-color: #1e1f25;
+}
+
+.form {
+  --width-of-input: 200px;
+  --border-height: 1px;
+  --border-before-color: rgba(221, 221, 221, 0.39);
+  --border-after-color: #5891ff;
+  --input-hovered-color: #4985e01f;
+  position: relative;
+  width: var(--width-of-input);
+}
+
+.input {
+  color: #fff;
+  font-size: 0.9rem;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+  padding-inline: 0.5em;
+  padding-block: 0.7em;
+  border: none;
+  border-bottom: var(--border-height) solid var(--border-before-color);
+}
+
+input:hover {
+  background: var(--input-hovered-color);
+}
+
+.login__Btu {
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 25px;
+  background-color: #28282f;
+}
+
+h1 {
+  color: white;
+}
