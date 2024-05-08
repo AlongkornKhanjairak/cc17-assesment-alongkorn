@@ -91,25 +91,25 @@ async function getMe() {
 
 ### 1A : Project Setup (10pts)
 
-- [ ] Create Project with Create React App or ViteJs
-- [ ] Clean up unused files and code
-- [ ] Install dependencies or packages that you need for this project
-- [ ] Pick some CSS Framework and Install eg. Bootstrap, Tailwind, Scss, Vanilla css or MUI
-- [ ] Setup Well-organized Folder Structure
-- [ ] Using Git and Github for Version Control System
-- [ ] Using Comand Line for run project
+- [x] Create Project with Create React App or ViteJs
+- [x] Clean up unused files and code
+- [x] Install dependencies or packages that you need for this project
+- [x] Pick some CSS Framework and Install eg. Bootstrap, Tailwind, Scss, Vanilla css or MUI
+- [x] Setup Well-organized Folder Structure
+- [x] Using Git and Github for Version Control System
+- [x] Using Comand Line for run project
 
 ### 1B : Build UI with React Component (20pts)
 
-- [ ] Understand UI Design and UI Flow (Figma)
-- [ ] Write Clean & Reausable UI
-- [ ] Good Naming for Component
-- [ ] Manage UI state appropriately
+- [x] Understand UI Design and UI Flow (Figma)
+- [x] Write Clean & Reausable UI
+- [x] Good Naming for Component
+- [x] Manage UI state appropriately
 
 ### 1C : Precise UI with Design (20pts)
 
-- [ ] Precise UI : Login Page
-- [ ] Precise UI : Todo Page
+- [x] Precise UI : Login Page
+- [x] Precise UI : Todo Page
 
 ## Part-2 : Feature and Logic (50pts)
 
@@ -142,8 +142,9 @@ async function getMe() {
 - [ ] Using Context API for State Management (20pts)
 - [ ] Using React Router for Routing (10pts)
 - [ ] New Feature or Amazing UI (Depend on your creativity) (15pts)
-- [ ] Deploy to Vercel or Netlify (15pts)
+- [x] Deploy to Vercel or Netlify (15pts)
 - paste your link here
+  https://cc17-assesment-alongkorn.vercel.app/
 
 ## Part-4 : Become Extraordinary Developer (100pts)
 
